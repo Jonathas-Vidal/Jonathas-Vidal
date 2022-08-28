@@ -7,6 +7,14 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathas-Vidal&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
+<div align="center">  
+<a href="https://github.com/Jonathas-Vidal/GoogleBooks_APP" target="_blank"><img src="https://img.shields.io/badge/-Projeto api books-%23E4405F?style=for-the-badge&logo=github&logoColor=black"</a>
+</div>
+
+<div align="center">  
+<a href="https://github.com/Jonathas-Vidal/Gasto-Viagem" target="_blank"><img src="https://img.shields.io/badge/-calc. gasto viagem-%23E4405F?style=for-the-badge&logo=github&logoColor=black"</a>
+</div>
+
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=Jonathas-Vidal&theme=gotham&hide_border=true&area=true)
 
 <p align="center">
@@ -19,7 +27,7 @@
   
 
 ### Main skills:
-  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-github-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=Kotlin&logoColor=purple&labelColor=0D1117)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-0D1117?style=for-the-badge&logo=Android&logoColor=green&labelColor=0D1117)&nbsp;
 
