@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">  
-<a href="https://github.com/Jonathas-Vidal/APP_Motivation" target="_blank"><img src="https://img.shields.io/badge/-calc. App Motivation-%23E4405F?style=for-the-badge&logo=github&logoColor=black"</a>
+<a href="https://github.com/Jonathas-Vidal/DevNotes" target="_blank"><img src="https://img.shields.io/badge/-calc. App DevNotes-%23E4405F?style=for-the-badge&logo=github&logoColor=black"</a>
 </div>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=Jonathas-Vidal&theme=gotham&hide_border=true&area=true)
