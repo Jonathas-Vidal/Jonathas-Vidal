@@ -8,6 +8,10 @@
 </div>
 
 <div align="center">  
+<a href="https://github.com/Jonathas-Vidal/Movies-API" target="_blank"><img src="https://img.shields.io/badge/-J Movies-%23E4405F?style=for-the-badge&logo=github&logoColor=black"</a>
+</div>
+
+<div align="center">  
 <a href="https://github.com/Jonathas-Vidal/GoogleBooks_APP" target="_blank"><img src="https://img.shields.io/badge/-Projeto api books-%23E4405F?style=for-the-badge&logo=github&logoColor=black"</a>
 </div>
 
