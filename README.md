@@ -43,6 +43,11 @@ Kotlin, Android, Retrofit, Firebase, RecyclerView, API, Room, MVVM.
 # 📊 GitHub Stats:
  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jonathas-Vidal&theme=default&hide_border=false)<br/>
+  
+  ![](https://github-readme-stats.vercel.app/api?username=jonathas-vidal&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathas-vidal&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
+
 
  <div>
 <br><p align="centre"><b> Visitors Count </b></p>  
