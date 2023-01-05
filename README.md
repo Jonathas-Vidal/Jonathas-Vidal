@@ -1,51 +1,22 @@
-
-# Jonathas Pereira
-
-Desenvolvedor Android Kotlin
-
-
-## 🚀 Sobre mim
-Me chamo Jônathas, tenho 18 anos e sou Desenvolvedor android. Atualmente venho desenvolvendo diversos projetos que já podem ser encontrados nos meus repositórios.
+# 💫 Sobre mim:
+Me chamo Jônathas, tenho 18 anos e sou Desenvolvedor Android Kotlin. Atualmente venho me dedicando cada vez mais em adquirir conhecimentos na stack Android por meio do Desenvolvimento de diversos projetos, aplicativos, cursos, etc. <br>Todos meus projetos se encontram na Aba de repositórios: 
+**👩‍💻 Meus projetos:**  https://github.com/Jonathas-Vidal?tab=repositories
 
 
+**Atualmente:** Trabalhando como Estagiário Desenvolvedor FullStack na Universidade de Vassouras.
 
+# 📧 Contato:
 
-## Mais informações
-👩‍💻 Trabalho atualmente como: Desenvolvedor Full Stack.
+<a href="mailto:jonathas10pereira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
+<a href="https://www.linkedin.com/in/jonathas-pereira-vidal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
+<a href="https://wa.me/+5522988388239"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/><a/>
 
-🧠 Estou focado em: Desenvolvimento Android.
-
-
-📫 Entre em contato comigo: jonathas10pereira@gmail.com
-
-👩‍💻 Meus projetos:  https://github.com/Jonathas-Vidal?tab=repositories
-
-
-
-
-
-
-## Principais projetos:
-## - J Movies - APP  Android que consulta a API TheMovieDB através do Retrofit.
-
-![image](https://user-images.githubusercontent.com/101603957/204070198-a7ffe37d-e5b9-4f51-abd7-6f658f6281db.png)![image](https://user-images.githubusercontent.com/101603957/204070165-29ecf4b0-72c1-4f1e-9f1b-acab184f930b.png)
-
--Link do repositório detalhado: https://github.com/Jonathas-Vidal/Movies-API
-
------------------------------------------------------------------------------------------------------------------------
-
-## - Dev Notes - APP Android que possibilita a criação de notas.
-
-![Android Emulator - Pixel_4_API_33_5554 01_10_2022 00_26_21](https://user-images.githubusercontent.com/101603957/193385694-e42f1ab2-c6a4-4093-abc9-fdca8b757854.png)
-
--Link do repositório detalhado: https://github.com/Jonathas-Vidal/DevNotes
-
-## 🔗 Links
-[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathas-pereira-vidal/)
-
-
-
-## 🛠 Habilidades
+# 💻 Tech Stack:
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  
+  ## 🛠 Habilidades
 Kotlin, Android, Retrofit, Firebase, RecyclerView, API, Room, MVVM.
 
 ### Main skills:
@@ -68,3 +39,29 @@ Kotlin, Android, Retrofit, Firebase, RecyclerView, API, Room, MVVM.
 ### Studying in this moment:
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=Kotlin&logoColor=purple&labelColor=0D1117)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-0D1117?style=for-the-badge&logo=Android&logoColor=green&labelColor=0D1117)&nbsp;
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jonathas-Vidal&theme=default&hide_border=false)<br/>
+
+
+
+
+## Principais projetos:
+## - J Movies - APP  Android que consulta a API TheMovieDB através do Retrofit.
+
+![image](https://user-images.githubusercontent.com/101603957/204070198-a7ffe37d-e5b9-4f51-abd7-6f658f6281db.png)![image](https://user-images.githubusercontent.com/101603957/204070165-29ecf4b0-72c1-4f1e-9f1b-acab184f930b.png)
+
+-Link do repositório detalhado: https://github.com/Jonathas-Vidal/Movies-API
+
+-----------------------------------------------------------------------------------------------------------------------
+
+## - Dev Notes - APP Android que possibilita a criação de notas.
+
+![Android Emulator - Pixel_4_API_33_5554 01_10_2022 00_26_21](https://user-images.githubusercontent.com/101603957/193385694-e42f1ab2-c6a4-4093-abc9-fdca8b757854.png)
+
+-Link do repositório detalhado: https://github.com/Jonathas-Vidal/DevNotes
+
+
+
+
