@@ -41,12 +41,14 @@ Kotlin, Android, Retrofit, Firebase, RecyclerView, API, Room, MVVM.
 ![Android](https://img.shields.io/badge/-Android-0D1117?style=for-the-badge&logo=Android&logoColor=green&labelColor=0D1117)&nbsp;
 
 # 📊 GitHub Stats:
-
+ 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jonathas-Vidal&theme=default&hide_border=false)<br/>
 
-
-
-
+ <div>
+<br><p align="centre"><b> Visitors Count </b></p>  
+<p><img align="center" src="https://profile-counter.glitch.me/{Jonathas-Vidal}/count.svg" /></p> 
+<br></div>
+  
 ## Principais projetos:
 ## - J Movies - APP  Android que consulta a API TheMovieDB através do Retrofit.
 
