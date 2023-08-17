@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Me chamo Jônathas, tenho 18 anos e sou Desenvolvedor Android Kotlin. Atualmente venho me dedicando cada vez mais em adquirir conhecimentos na stack Android por meio do Desenvolvimento de diversos projetos, aplicativos, cursos, etc. <br>Todos meus projetos se encontram na Aba de repositórios: 
+Me chamo Jônathas, tenho 19 anos e sou Desenvolvedor Android Kotlin. Atualmente venho me dedicando cada vez mais em adquirir conhecimentos na stack Android por meio do Desenvolvimento de diversos projetos, aplicativos, cursos, etc. <br>Todos meus projetos se encontram na Aba de repositórios: 
 **👩‍💻 Meus projetos:**  https://github.com/Jonathas-Vidal?tab=repositories
 
 
@@ -37,7 +37,8 @@ Kotlin, Android, Retrofit, Firebase, RecyclerView, API, Room, MVVM.
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=Kotlin&logoColor=purple&labelColor=0D1117)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=Kotlin&logoColor=purple&labelColor=0D1117
+)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-0D1117?style=for-the-badge&logo=Android&logoColor=green&labelColor=0D1117)&nbsp;
 
 # 📊 GitHub Stats:
