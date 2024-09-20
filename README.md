@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Me chamo Jônathas, tenho 19 anos e sou Desenvolvedor Android Kotlin. Atualmente venho me dedicando cada vez mais em adquirir conhecimentos na stack Android por meio do Desenvolvimento de diversos projetos, aplicativos, cursos, etc. <br>Todos meus projetos se encontram na Aba de repositórios: 
+Me chamo Jônathas, tenho 20 anos e sou Desenvolvedor Android Kotlin. Atualmente venho me dedicando cada vez mais em adquirir conhecimentos na stack Android por meio do Desenvolvimento de diversos projetos, aplicativos, cursos, etc. <br>Todos meus projetos se encontram na Aba de repositórios: 
 **👩‍💻 Meus projetos:**  https://github.com/Jonathas-Vidal?tab=repositories
 
 
