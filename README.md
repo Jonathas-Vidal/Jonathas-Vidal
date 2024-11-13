@@ -1,9 +1,11 @@
 # 💫 Sobre mim:
-Me chamo Jônathas, tenho 20 anos e sou Desenvolvedor Android Kotlin. Atualmente venho me dedicando cada vez mais em adquirir conhecimentos na stack Android por meio do Desenvolvimento de diversos projetos, aplicativos, cursos, etc. <br>Todos meus projetos se encontram na Aba de repositórios: 
+Me chamo Jônathas, tenho 20 anos e sou Desenvolvedor Backend Python. Atualmente venho me dedicando cada vez mais em adquirir conhecimentos no desenvolvimento de projetos, utilizando as tecnologias mais recentes.<br>
+Atuei durante 6 meses em uma vaga de estágio, como Desenvolvedor Full Stack Python, utilizando Django, HTML, CSS, Javascript, PostgreSQL, Git, e outras ferramentas.
+<br>Todos meus projetos se encontram na Aba de repositórios: 
 **👩‍💻 Meus projetos:**  https://github.com/Jonathas-Vidal?tab=repositories
 
 
-**Atualmente:** Trabalhando como Estagiário Desenvolvedor FullStack na Universidade de Vassouras.
+**Atualmente:** Buscando oportunidade como Desenvolvedor Python Jr.
 
 # 📧 Contato:
 
@@ -11,35 +13,18 @@ Me chamo Jônathas, tenho 20 anos e sou Desenvolvedor Android Kotlin. Atualmente
 <a href="https://www.linkedin.com/in/jonathas-pereira-vidal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
 <a href="https://wa.me/+5522988388239"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/><a/>
 
-# 💻 Tech Stack:
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   
   ## 🛠 Habilidades
-Kotlin, Android, Retrofit, Firebase, RecyclerView, API, Room, MVVM.
+Python, Django, API REST, PostgreSQL, Docker, HTML, CSS e JS.
 
 ### Main skills:
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-github-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=Kotlin&logoColor=purple&labelColor=0D1117)&nbsp;
-![Android](https://img.shields.io/badge/-Android-0D1117?style=for-the-badge&logo=Android&logoColor=green&labelColor=0D1117)&nbsp;
-
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-0D1117?style=for-the-badge&logo=AndroidStudio&logoColor=green&labelColor=0D1117)&nbsp;
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-0D1117?style=for-the-badge&logo=IntelliJidea&logoColor=white&labelColor=0D1117)&nbsp;
-
-### Other Knowledge:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=Kotlin&logoColor=purple&labelColor=0D1117
-)&nbsp;
-![Android](https://img.shields.io/badge/-Android-0D1117?style=for-the-badge&logo=Android&logoColor=green&labelColor=0D1117)&nbsp;
 
 # 📊 GitHub Stats:
  
@@ -56,19 +41,14 @@ Kotlin, Android, Retrofit, Firebase, RecyclerView, API, Room, MVVM.
 <br></div>
   
 ## Principais projetos:
-## - J Movies - APP  Android que consulta a API TheMovieDB através do Retrofit.
+## - Blog - Sistema web que cria postagens e permite a interação entre usuários.
 
-![image](https://user-images.githubusercontent.com/101603957/204070198-a7ffe37d-e5b9-4f51-abd7-6f658f6281db.png)![image](https://user-images.githubusercontent.com/101603957/204070165-29ecf4b0-72c1-4f1e-9f1b-acab184f930b.png)
+![image](https://github.com/user-attachments/assets/21dc8082-b575-471d-9905-b600aa8406ba)
+![image](https://github.com/user-attachments/assets/7491a249-632f-43d0-9e0a-dfd2793511ca)
 
--Link do repositório detalhado: https://github.com/Jonathas-Vidal/Movies-API
-
+-Link do repositório detalhado: https://github.com/Jonathas-Vidal/DjangoBlog
 -----------------------------------------------------------------------------------------------------------------------
 
-## - Dev Notes - APP Android que possibilita a criação de notas.
-
-![Android Emulator - Pixel_4_API_33_5554 01_10_2022 00_26_21](https://user-images.githubusercontent.com/101603957/193385694-e42f1ab2-c6a4-4093-abc9-fdca8b757854.png)
-
--Link do repositório detalhado: https://github.com/Jonathas-Vidal/DevNotes
 
 
 
