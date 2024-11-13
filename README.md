@@ -26,16 +26,7 @@ Python, Django, API REST, PostgreSQL, Docker, HTML, CSS e JS.
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
-# 📊 GitHub Stats:
- 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jonathas-Vidal&theme=default&hide_border=false)<br/>
-  
-  ![](https://github-readme-stats.vercel.app/api?username=jonathas-vidal&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathas-vidal&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
----
-
-
- <div>
+<div>
 <br><p align="centre"><b> Visitors Count </b></p>  
 <p><img align="center" src="https://profile-counter.glitch.me/{Jonathas-Vidal}/count.svg" /></p> 
 <br></div>
