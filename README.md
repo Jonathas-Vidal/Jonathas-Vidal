@@ -1,7 +1,3 @@
-Claro! Aqui está uma versão revisada e mais alinhada com seu foco atual em Java com Spring Boot, sem deixar de valorizar sua experiência anterior com Python/Django e outras tecnologias:
-
----
-
 # 💫 Sobre mim
 
 Olá! Me chamo **Jônathas**, tenho 20 anos e sou **Desenvolvedor Backend**, com experiência como **Desenvolvedor Full Stack**. Iniciei minha jornada com foco em **Python e Django**, e atualmente estou me aprofundando no ecossistema **Java com Spring Boot**, buscando sempre evoluir em boas práticas, arquitetura de software e tecnologias modernas.
