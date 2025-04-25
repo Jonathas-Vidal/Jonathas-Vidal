@@ -71,10 +71,3 @@ Sistema web para criação de postagens e interação entre usuários.
   <img src="https://github.com/user-attachments/assets/21dc8082-b575-471d-9905-b600aa8406ba" height="200"/>
   <img src="https://github.com/user-attachments/assets/7491a249-632f-43d0-9e0a-dfd2793511ca" height="200"/>
 </div>
-
----
-
-## 📊 Estatísticas
-
-<p align="center"><b> Visitantes do perfil </b></p>  
-<p align="center"><img src="https://profile-counter.glitch.me/{Jonathas-Vidal}/count.svg" /></p>
